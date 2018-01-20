@@ -160,13 +160,13 @@ void rotate(double thetax, double thetay)
 
 f-16飞机的不同旋转角度（2366个面片）
 
-![](f-16.png)
+![](https://github.com/wb-finalking/section_scan_line/blob/master/f-16.PNG?raw=true)
 
-![](f-162.png)
+![](https://github.com/wb-finalking/section_scan_line/blob/master/f-162.PNG?raw=true)
 
-![](f-163.png)
+![](https://github.com/wb-finalking/section_scan_line/blob/master/f-163.PNG?raw=true)
 
-![](f-164.png)
+![](https://github.com/wb-finalking/section_scan_line/blob/master/f-164.PNG?raw=true)
 
 
 
@@ -176,4 +176,4 @@ f-16飞机的不同旋转角度（2366个面片）
 
 雕像模型(43357个面片)
 
-![](test.png)
+![](https://github.com/wb-finalking/section_scan_line/blob/master/test.PNG?raw=true)
